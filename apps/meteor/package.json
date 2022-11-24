@@ -208,7 +208,7 @@
 		"@rocket.chat/gazzodown": "workspace:^",
 		"@rocket.chat/icons": "0.31.16",
 		"@rocket.chat/logo": "0.31.16",
-		"@rocket.chat/memo": "0.31.16",
+		"@rocket.chat/memo": "0.31.21",
 		"@rocket.chat/message-parser": "0.31.16",
 		"@rocket.chat/model-typings": "workspace:^",
 		"@rocket.chat/models": "workspace:^",
