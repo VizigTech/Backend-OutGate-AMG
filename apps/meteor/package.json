@@ -203,7 +203,7 @@
 		"@rocket.chat/fuselage-hooks": "0.31.16",
 		"@rocket.chat/fuselage-polyfills": "0.31.16",
 		"@rocket.chat/fuselage-toastbar": "0.31.16",
-		"@rocket.chat/fuselage-tokens": "0.31.16",
+		"@rocket.chat/fuselage-tokens": "0.31.21",
 		"@rocket.chat/fuselage-ui-kit": "0.31.16",
 		"@rocket.chat/gazzodown": "workspace:^",
 		"@rocket.chat/icons": "0.31.16",
